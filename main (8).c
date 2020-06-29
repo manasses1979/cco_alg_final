@@ -8,6 +8,9 @@ Crie procedimentos para carregar e escrever o vetor dinâmico;
 #include <stdlib.h>
 #define TAM 10
 
+teste
+
+
 void carregaVetor(int *y){
     int i;
     for (i = 0; i < TAM; i++){
